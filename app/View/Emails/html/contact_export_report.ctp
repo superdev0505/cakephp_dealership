@@ -1,0 +1,1 @@
+<p>The contact report has been exported by CRM user <?php echo '#'.$user_data['id'].' '.$user_data['full_name']; ?>.</p>

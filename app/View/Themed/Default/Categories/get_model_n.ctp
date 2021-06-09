@@ -1,0 +1,1 @@
+<?php echo json_encode(array('model_opt'=>$model_opt,'hd_prefix_opt'=>$hd_prefix_opt));  ?>

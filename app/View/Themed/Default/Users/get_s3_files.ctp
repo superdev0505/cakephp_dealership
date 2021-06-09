@@ -1,0 +1,1 @@
+<?php echo $this->element( 'manage_s3_files' ); ?>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/dp360/!svn/ver/2550/trunk/app/Config
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/dp360/!svn/ver/2/trunk/app/Config/acl.ini.php
+END
+acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/dp360/!svn/ver/2/trunk/app/Config/acl.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/dp360/!svn/ver/1992/trunk/app/Config/routes.php
+END
+AppController.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dp360/!svn/ver/2/trunk/app/Config/AppController.php
+END
+database.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dp360/!svn/ver/2/trunk/app/Config/database.php.default
+END
+email.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/dp360/!svn/ver/1414/trunk/app/Config/email.php
+END
+routes-march.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dp360/!svn/ver/2/trunk/app/Config/routes-march.php
+END
+email.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dp360/!svn/ver/2/trunk/app/Config/email.php.default
+END

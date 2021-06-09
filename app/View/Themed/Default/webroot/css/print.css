@@ -1,0 +1,16 @@
+#t-area{
+	border:none;
+	background:none;
+}
+
+#overfl{
+	overflow:visible;
+}
+
+#content{
+	width:auto;
+}
+
+th{
+	font-weight:bold;
+}

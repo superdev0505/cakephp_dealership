@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/dp360/!svn/ver/2/trunk/app/Config/Schema
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dp360/!svn/ver/2/trunk/app/Config/Schema/i18n.php
+END
+db_acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dp360/!svn/ver/2/trunk/app/Config/Schema/db_acl.php
+END
+sessions.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dp360/!svn/ver/2/trunk/app/Config/Schema/sessions.php
+END
+i18n.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dp360/!svn/ver/2/trunk/app/Config/Schema/i18n.sql
+END
+crm.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dp360/!svn/ver/2/trunk/app/Config/Schema/crm.sql
+END
+crm_sample.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dp360/!svn/ver/2/trunk/app/Config/Schema/crm_sample.sql
+END
+crm_sample2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dp360/!svn/ver/2/trunk/app/Config/Schema/crm_sample2.sql
+END
+db_acl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dp360/!svn/ver/2/trunk/app/Config/Schema/db_acl.sql
+END
+sessions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dp360/!svn/ver/2/trunk/app/Config/Schema/sessions.sql
+END
